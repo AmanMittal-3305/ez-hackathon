@@ -1,0 +1,6 @@
+Flask==2.0.1
+transformers==4.9.1
+torch==2.0.0  # Updated version
+textstat==0.7.1
+spacy==3.1.2
+langdetect==1.0.9
